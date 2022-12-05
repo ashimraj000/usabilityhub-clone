@@ -243,7 +243,7 @@ header {
     position: relative;
     min-height: 300px;
     background-color: black;
-    background:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)) ,url(./assets/5b48591a238eb6563b4d3581_cover_tasks.jpg);
+    background:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)) ,url(5b48591a238eb6563b4d3581_cover_tasks.jpg);
     background-position: center;
     background-size: 300px;
 }
